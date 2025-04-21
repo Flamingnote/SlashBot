@@ -1,1 +1,1 @@
-# SlashBot
+# Slash-Bot
